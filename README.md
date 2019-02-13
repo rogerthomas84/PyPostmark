@@ -1,4 +1,18 @@
-# Postmark Python
+# PyPostmark
+
+## Introduction
+
+This library follows the same structure and naming as the official [PHP Postmark library](https://github.com/wildbit/postmark-php).
+
+The sole purpose of this library is to ease the integration of Postmark sending when running in the App Engine Python 2.7 environment.
+
+## Including
+
+Add this line to your `requirements.txt` file.
+
+```
+git+ssh://git@github.com/rogerthomas84/PyPostmark.git#egg=pypostmark
+```
 
 ## Getting Started
 
